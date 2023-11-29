@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PracticaGuiada</string>
+    <string name="tvVersionAndroidLB">1. Version Android</string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvLight">2. Flashlight:</string>
+    <string name="btnOn">On</string>
+    <string name="btnOff">Off</string>
+    <string name="tvLevelBatteryLB">3. Level of Battery</string>
+    <string name="pbLevelBattery"></string>
+    <string name="tvStorageLB">4. Storage</string>
+    <string name="etNameFile">Name of File</string>
+    <string name="btnSaveFile">Save</string>
+    <string name="tvConnectionLB">5. Connection:</string>
+    <string name="tvConnection"></string>
+</resources>
